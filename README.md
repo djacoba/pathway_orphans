@@ -1,4 +1,4 @@
-Scripts for the Pathway Orphans preprint
+# Script for the Pathway Orphans preprint
 
 Kidney ‘pathway-orphan’ genes as a potential overlooked source of novel insights into kidney health and disease
 Dianne Acoba, Sophie Gunnarsson, Anna Reznichenko
